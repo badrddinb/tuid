@@ -1,0 +1,36 @@
+{
+  "name": "tuid",
+  "version": "1.0.0",
+  "description": "A sortable, unique, and unlimited timestamp-based universal unique identifier (TUID) generator with validation and parsing support.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badrddinb/tuid.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "TUID",
+    "UUID",
+    "identifier",
+    "unique-id",
+    "sortable",
+    "timestamp",
+    "universal"
+  ],
+  "author": "Badreddine Bendriss",
+  "license": "CC-BY-NC-4.0",
+  "devDependencies": {
+    "@types/jest": "29.5.13",
+    "jest": "29.7.0",
+    "ts-jest": "29.2.5",
+    "ts-node": "10.9.2",
+    "typescript": "5.6.3"
+  }
+}
