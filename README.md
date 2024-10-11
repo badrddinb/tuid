@@ -19,13 +19,13 @@ TUIDs, all implemented with minimal dependencies and full TypeScript support.
 To install TUID, simply run:
 
 ```bash
-npm install tuid
+npm install @badrddinb/tuid
 ```
 
 or, using Yarn:
 
 ```bash
-yarn add tuid
+yarn add @badrddinb/tuid
 ```
 
 ## Usage

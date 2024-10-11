@@ -1,5 +1,5 @@
 {
-  "name": "tuid",
+  "name": "@badrddinb/tuid",
   "version": "1.0.0",
   "description": "A sortable, unique, and unlimited timestamp-based universal unique identifier (TUID) generator with validation and parsing support.",
   "main": "dist/index.js",
